@@ -5,10 +5,10 @@
 <string name="actionbar_textselection_title">"Text selection"</string>
 <string name="add_to_dictionary">"Add to dictionary"</string>
 <string name="delete_suggestion_text">"Delete"</string>
-<string name="profiler_started_toast">"Profiler started"</string>
-<string name="profiler_stopped_toast">"Profiler finished. Results are in %1$s."</string>
-<string name="profiler_no_storage_toast">"Can\'t start profiler because external storage is not ready"</string>
-<string name="profiler_error_toast">"Failed to start profiler"</string>
+<string name="profiler_started_toast">Profile started</string>
+<string name="profiler_stopped_toast">Profile finished. Results are in %1$s.</string>
+<string name="profiler_no_storage_toast">Can\'t start profile because external storage is not ready</string>
+<string name="profiler_error_toast">Failed to start profile</string>
 <string name="accessibility_date_picker_month">"Month"</string>
 <string name="accessibility_date_picker_year">"Year"</string>
 <string name="date_picker_dialog_set">"Set"</string>

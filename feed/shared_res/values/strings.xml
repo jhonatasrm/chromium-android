@@ -34,9 +34,7 @@
 
   <string name="zero_state_text_afternoon"
       description="Body text shown in the afternoon on the New Tab Page when all suggested
-          content has been dismissed.">
-    More articles will appear soon. Enjoy your afternoon!
-  </string>
+          content has been dismissed.">More articles will appear soon. Enjoy your afternoon!</string>
 
   <string name="zero_state_text_evening"
       description="Body text shown in the evening on the New Tab Page when all suggested content

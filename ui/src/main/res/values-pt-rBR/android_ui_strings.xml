@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="url_copied">URL copiada.</string>
+    <string name="copy_to_clipboard_failure_message">Falha ao copiar para a área de transferência</string>
+    <string name="current_detected_ui_locale_name">pt-BR</string>
+    <string name="opening_file_error">Falha ao abrir o arquivo selecionado</string>
+    <string name="low_memory_error">Não foi possível concluir a operação anterior devido a pouca memória</string>
+</resources>

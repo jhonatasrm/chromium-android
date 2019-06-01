@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="autofill_popup_content_description">Mostrando pop-up de auto completar</string>
+</resources>

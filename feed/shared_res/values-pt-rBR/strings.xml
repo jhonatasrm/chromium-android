@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_suggestions">Isso é tudo por enquanto</string>
+    <string name="feed_refresh">Atualizar</string>
+    <string name="more_button_label">Mais</string>
+    <string name="snackbar_fetch_failed">Não foi possível obter sugestões</string>
+    <string name="snackbar_fetch_no_new_suggestions">Sem novas sugestões</string>
+    <string name="suggestions_section_empty">Seus artigos sugeridos aparecem aqui</string>
+    <string name="zero_state_text_afternoon">Mais artigos aparecerão em breve. Aproveite a sua tarde!</string>
+    <string name="zero_state_text_evening">Mais artigos aparecerão em breve. Aproveite a sua noite!</string>
+    <string name="zero_state_text_morning">Mais artigos aparecerão em breve. Aproveite sua manhã!</string>
+</resources>
